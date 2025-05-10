@@ -7,8 +7,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast+⚙️;Data+Science+Explorer+📊;AI+Dreamer+🤖;Full+Time+Student%2C+Part+Time+Coder+💻" alt="Typing SVG" />
   
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" style="border-radius: 10px;" alt="Student Coding"/>
-
   <p style="font-size: 1.2em; margin-top: 20px;">
     🚀 Passionate about building smart solutions using Python and Machine Learning.<br>
     🌟 Transforming raw data into actionable insights & predictive models.
