@@ -1,4 +1,4 @@
-<!-- 🌈 Colorful & Stylish GitHub Intro (UI/UX Enhanced + LinkedIn Added) -->
+<!-- 🌈 Colorful & Stylish GitHub Intro with GIFs -->
 <div align="center" style="padding: 20px; border-radius: 20px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white;">
 
   <h1 style="font-size: 3em; font-weight: bold; background: linear-gradient(to right, #00ffe7, #0abde3); -webkit-background-clip: text; color: transparent;">
@@ -6,6 +6,8 @@
   </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast+⚙️;Data+Science+Explorer+📊;AI+Dreamer+🤖;Full+Time+Student%2C+Part+Time+Coder+💻" alt="Typing SVG" />
+
+  <img src="https://media.giphy.com/media/3o7TKxOh5JxvXBuEOU/giphy.gif" width="250" style="border-radius: 10px;" alt="Student Coding"/>
 
   <p style="font-size: 1.2em; margin-top: 20px;">
     🚀 Passionate about building smart solutions using Python and Machine Learning.<br>
@@ -40,6 +42,8 @@
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   </p>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;" alt="Data Science"/>
 
   <!-- ✨ Fun Fact -->
   <h2 style="color: #00ffe7;">✨ Fun Fact</h2>
