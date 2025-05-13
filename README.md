@@ -43,6 +43,16 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;" alt="Data Science"/>
 
+  <!-- 📊 GitHub Stats -->
+  <h2 style="color: #00ffe7;">📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rsrujan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="R. Srujan GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsrujan&theme=tokyonight&hide_border=true&border_radius=10" alt="R. Srujan GitHub Streak"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrujan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+  </p>
+
   <!-- ✨ Fun Fact -->
   <h2 style="color: #00ffe7;">✨ Fun Fact</h2>
   <p>Sometimes I debug my models by whispering to them... and shockingly it works 🤯😂</p>
